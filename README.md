@@ -30,6 +30,7 @@ If you're using Vagrant, you can stop the VM by typing ```vagrant halt```. To st
 
 * Adrian Granados - [@adriangranados](https://twitter.com/adriangranados)
 * Nigel Bowden - [@wifinigel](https://twitter.com/wifinigel)
+* Tobias Schramm [@Toble_Miner](https://twitter.com/Toble_Miner)
 
 ## Disclaimer
 
